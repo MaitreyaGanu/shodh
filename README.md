@@ -1,5 +1,5 @@
 # Reducing Food Wastage and Procurement Loss in a Student Mess  
-## A Data Warehousing and Business Intelligence Case Study (Varsha 2025)
+## A Data Warehousing and Business Intelligence Case Study
 
 **Author:** Maitreya Sameer Ganu (IMS23099)  
 **Supervisor:** Dr. Zakaria Laskar  
@@ -25,7 +25,7 @@ Due to the absence of direct food wastage measurements, the analysis adopts a **
 - **Source:**Provided in he description 
 - **Portal:** http://mess.iisertvm.ac.in  
 - **Data Type:** Vendor-level expenditure records  
-- **Time Period:** Varsha Semester 2025 (August–December 2025)
+- **Time Period:** August–December 2025
 
 Each record corresponds to a **vendor payment transaction**, not individual food consumption events. Multiple vendor bills may be settled on the same payment date.
 
