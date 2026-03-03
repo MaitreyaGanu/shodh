@@ -12,7 +12,7 @@
 
 This repository contains the datasets, SQL workflows, and Python-based analytical code used in the academic case study:
 
-**“Reducing Food Wastage and Procurement Loss in the IISER Thiruvananthapuram Student Mess Using Data Warehousing and Business Intelligence Techniques.”**
+**“Reducing Food Wastage and Procurement Loss in a Student Mess Using Data Warehousing and Business Intelligence Techniques.”**
 
 The project applies **data warehousing (DW)** and **business intelligence (BI)** methodologies to real-world institutional mess expenditure data to identify inefficiencies, wastage-prone periods, and procurement risk patterns in a **non-profit, student-run food system**.
 
@@ -22,7 +22,7 @@ Due to the absence of direct food wastage measurements, the analysis adopts a **
 
 ## Data Source
 
-- **Source:** IISER Thiruvananthapuram Student Cooperative Mess  
+- **Source:**Provided in he description 
 - **Portal:** http://mess.iisertvm.ac.in  
 - **Data Type:** Vendor-level expenditure records  
 - **Time Period:** Varsha Semester 2025 (August–December 2025)
@@ -142,7 +142,7 @@ These constraints are consistently acknowledged throughout the analysis.
 A detailed academic report describing the data warehouse design, methodology, analysis, and limitations accompanies this repository.
 
 **Title:**  
-*Reducing Food Wastage and Procurement Loss in the IISER Thiruvananthapuram Student Mess Using Data Warehousing and Business Intelligence Techniques*
+*Reducing Food Wastage and Procurement Loss in a Student Mess Using Data Warehousing and Business Intelligence Techniques*
 
 ---
 
