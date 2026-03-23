@@ -29,10 +29,10 @@ git clone https://github.com/MaitreyaGanu/Mess-Case-Study
 cd Mess-Case-Study
 
 # 2. Install
-pip install -r requirements.txt
+pip install -r Code/requirements.txt
 
 # 3. Run
-python app.py
+python Code/app.py
 # → Open http://localhost:7860
 ```
 
