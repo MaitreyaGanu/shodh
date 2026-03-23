@@ -1,15 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║   MESS INTELLIGENCE PLATFORM  —  v2.0                          ║
-║   DWBI Analytics Suite for Institutional Food Systems           ║
-║   Built for: IISER Thiruvananthapuram  |  Startup-Grade         ║
-╚══════════════════════════════════════════════════════════════════╝
-
-Deploy:  python app.py
-Deps:    pip install gradio pandas numpy plotly mlxtend networkx scipy
-GitHub:  Add requirements.txt + this file to repo root
-"""
-
 # ─────────────────────────────────────────────────────────────────
 # IMPORTS
 # ─────────────────────────────────────────────────────────────────
