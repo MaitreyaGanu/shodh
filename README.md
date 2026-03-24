@@ -18,6 +18,7 @@
 | 📐 **Benford's Law** | Forensic first-digit χ² goodness-of-fit analysis |
 | 🕸 **Network Analysis** | Weighted bipartite mess–vendor graph with Louvain community detection |
 | 🔗 **Association Rules** | FP-Growth frequent pattern mining (configurable support/confidence) |
+| 📚 **Summary Statistics** | Allows the user to extract meaningful patterns and statistics |
 
 ---
 
