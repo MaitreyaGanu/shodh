@@ -1105,4 +1105,5 @@ with gr.Blocks(title="Systems Intelligence", css=CSS, theme=gr.themes.Base()) as
     file_input.change(fn=run_pipeline, inputs=[file_input], outputs=[upload_status])
 
 if __name__ == "__main__":
-    app.launch(server_name="0.0.0.0", server_port=1234, share=False)
+    #app.launch(server_name="0.0.0.0", server_port=1234, share=False)
+    app.launch()
