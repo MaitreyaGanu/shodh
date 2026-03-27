@@ -24,19 +24,7 @@
 
 ## 🚀 Quick Start
 
-```bash
-# 1. Clone
-git clone https://github.com/MaitreyaGanu/shodh
-cd Mess-Case-Study
-
-# 2. Install
-pip install -r Code/requirements.txt
-
-# 3. Run
-python Code/app.py
-# → Open http://localhost:7860
-```
-
+https://maitreyaganu.github.io/shodh/
 ---
 
 ## 📂 CSV Format
