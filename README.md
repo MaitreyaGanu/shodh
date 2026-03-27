@@ -26,7 +26,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/MaitreyaGanu/Mess-Case-Study
+git clone https://github.com/MaitreyaGanu/shodh
 cd Mess-Case-Study
 
 # 2. Install
